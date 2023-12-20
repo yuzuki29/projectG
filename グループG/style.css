@@ -1,8 +1,9 @@
 @charset "utf-8";
+
 header h1 {
 	line-height: 1.2;
 	margin: auto;
-	
+
 }
 
 body {
@@ -39,9 +40,9 @@ body {
 header {
 	padding-top: 4rem;
 	padding-bottom: 3rem;
-	margin-top: 5rem;	
+	margin-top: 5rem;
 	text-align: center;
-	background: url(img/フッターの背景画像.png);
+	background: url(img/ヘッターの背景画像.png);
 }
 
 h2 {
@@ -49,7 +50,7 @@ h2 {
 }
 
 h1 {
-	font-size: 100px;
+	font-size: 85px;
 }
 
 
@@ -66,7 +67,6 @@ ul {
 li {
 	flex: 1;
 	text-align: center;
-	border: solid 1px beige;
 	list-style-type: none;
 	background-color: white;
 
@@ -103,9 +103,13 @@ li {
 	background: #A4D5BD;
 }
 
-footer{
+.hover-blue a:hover{
+	color: #BD00FF;
+}
+
+footer {
 	width: 1263px;
-	height: 200px;
+	height: 275px;
 	background: url(img/フッター.png);
 }
 
@@ -136,9 +140,9 @@ footer a {
 	margin-bottom: 100px;
 }
 
-.list-sample p{
+.list-sample p {
 	text-align: start;
-	
+
 }
 
 .mar {
@@ -171,18 +175,48 @@ h1 {
 
 p {
 	font-size: 20px;
-	text-align: left;
+	text-align: center;
 }
 
 .pa {
 	margin-bottom: 300px;
 }
 
-.pa img{
+.pa img {
 	margin: 2rem;
+}
+
+.pa h2 {
+	font-size: 64px;
 }
 
 main {
 	width: 90%;
 }
 
+.title-font {
+	font-size: 96px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.fo-si-60 {
+	font-size: 60px;
+}
+
+.fo-si-42 {
+	font-size: 42px;
+}
+
+a {
+	color: black;
+}
+
+.ma-t-0{
+	margin-top: 0;
+}
+
+.center{
+	text-align: center;
+}
