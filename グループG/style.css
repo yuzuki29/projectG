@@ -110,7 +110,7 @@ li {
 footer {
 	width: 1263px;
 	height: 275px;
-	background: url(img/フッター.png);
+	background: url(img/フッター2.png);
 }
 
 
@@ -124,7 +124,7 @@ footer a {
 }
 
 .color-summer {
-	background-color: #AFE875;
+	background-color:  #ADD6FF;
 }
 
 .color-autumn {
@@ -220,3 +220,9 @@ a {
 .center{
 	text-align: center;
 }
+
+.fo-im{
+	margin-left: 850px;
+	padding-top: 80px;
+}
+
