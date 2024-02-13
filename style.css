@@ -42,7 +42,7 @@ header {
 	padding-bottom: 3rem;
 	margin-top: 5rem;
 	text-align: center;
-	background: url(img/ヘッターの背景画像.png);
+	background: url(ヘッターの背景画像.png);
 }
 
 h2 {
@@ -110,7 +110,7 @@ li {
 footer {
 	width: 1263px;
 	height: 275px;
-	background: url(img/フッター2.png);
+	background: url(フッター2.png);
 }
 
 .fo-flex{
